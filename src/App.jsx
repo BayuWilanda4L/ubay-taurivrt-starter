@@ -3,7 +3,7 @@ import tauriLogo from '../src-tauri/icons/icon.png'
 import viteLogo from './assets/vite.png'
 import reactLogo from './assets/react.svg'
 import tailwindLogo from './assets/tailwind.png'
-import './App.css'
+// import './App.css'
 
 function App() {
 	const [count, setCount] = useState(0)

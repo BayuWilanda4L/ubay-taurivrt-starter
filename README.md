@@ -2,7 +2,7 @@
 ## Tauri + Vite + React.js + Tailwind CSS Starter
 
 TauriVRT Starter is designed for you, who want to develop desktop applications using the power of Tauri, Vite, React.js, and Tailwind CSS. 🚀
-
+![Screenshot](screenshots/taurivrt.png)
 ## Requirements
 - #### Tauri
     Tauri requires some prerequisites. You can follow the instructions provided here:  <https://https://tauri.app/v1/guides/getting-started/prerequisites>.
